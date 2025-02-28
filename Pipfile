@@ -8,6 +8,8 @@ gpy = "*"
 scikit-learn = "*"
 torch = "*"
 ipykernel = "*"
+matplotlib = "*"
+scipy = "*"
 
 [dev-packages]
 
