@@ -10,6 +10,7 @@ torch = "*"
 ipykernel = "*"
 matplotlib = "*"
 scipy = "*"
+gpytorch = "*"
 
 [dev-packages]
 
